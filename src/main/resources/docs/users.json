@@ -1,0 +1,306 @@
+[
+  {
+    "phone": "+998999308215",
+    "firstName": "Otabek",
+    "lastName": "Eshpulatov",
+    "chatId": "1626572236",
+    "sessionUser": {
+      "balance": 49792.556,
+      "expenditureList": [],
+      "incomeList": [
+        {
+          "toWhere": "Toy",
+          "amount": 4556.0,
+          "time": "29.09.2022 13:45:40",
+          "id": 1,
+          "isSet": false
+        },
+        {
+          "toWhere": "fkqlewnamd",
+          "amount": 45236.556,
+          "time": "29.09.2022 16:39:13",
+          "id": 3,
+          "isSet": false
+        }
+      ]
+    }
+  },
+  {
+    "phone": "998996440939",
+    "firstName": ".",
+    "lastName": null,
+    "chatId": "5598241715",
+    "sessionUser": {
+      "balance": 5215.0,
+      "expenditureList": [
+        {
+          "where": "Toy\u0027%!",
+          "amount": 345.0,
+          "time": "29.09.2022 13:46:49",
+          "id": 1,
+          "isSet": false
+        }
+      ],
+      "incomeList": [
+        {
+          "toWhere": "Yoyy",
+          "amount": 5560.0,
+          "time": "29.09.2022 13:46:24",
+          "id": 2,
+          "isSet": false
+        }
+      ]
+    }
+  },
+  {
+    "phone": "+998909041683",
+    "firstName": "\u003c/Asrorxoʻja Yoʻldoshev\u003e",
+    "lastName": null,
+    "chatId": "568880807",
+    "sessionUser": {
+      "balance": 1056.0,
+      "expenditureList": [],
+      "incomeList": [
+        {
+          "toWhere": "Oylik",
+          "amount": 100.0,
+          "time": "29.09.2022 14:34:48",
+          "id": 1,
+          "isSet": false
+        },
+        {
+          "toWhere": "ded",
+          "amount": 500.0,
+          "time": "29.09.2022 14:42:56",
+          "id": 2,
+          "isSet": false
+        },
+        {
+          "toWhere": "ni",
+          "amount": 456.0,
+          "time": "29.09.2022 14:43:54",
+          "id": 3,
+          "isSet": false
+        }
+      ]
+    }
+  },
+  {
+    "phone": "998943900080",
+    "firstName": "Sayidaloxon",
+    "lastName": null,
+    "chatId": "816777376",
+    "sessionUser": {
+      "balance": 9.999E9,
+      "expenditureList": [
+        {
+          "where": "Trip to mountains",
+          "amount": 1000000.0,
+          "time": "29.09.2022 14:38:36",
+          "id": 1,
+          "isSet": false
+        }
+      ],
+      "incomeList": [
+        {
+          "toWhere": "10000000000",
+          "amount": 1.0E10,
+          "time": "29.09.2022 14:37:43",
+          "id": 2,
+          "isSet": false
+        }
+      ]
+    }
+  },
+  {
+    "phone": "+998941059944",
+    "firstName": "Баходиров",
+    "lastName": null,
+    "chatId": "1140794343",
+    "sessionUser": {
+      "balance": 0.0,
+      "expenditureList": [],
+      "incomeList": [
+        {
+          "toWhere": null,
+          "amount": 0.0,
+          "time": null,
+          "id": 1,
+          "isSet": true
+        },
+        {
+          "toWhere": null,
+          "amount": 0.0,
+          "time": null,
+          "id": 2,
+          "isSet": true
+        }
+      ]
+    }
+  },
+  {
+    "phone": "+998942422744",
+    "firstName": "Shakhzod",
+    "lastName": null,
+    "chatId": "698010075",
+    "sessionUser": {
+      "balance": 10400.0,
+      "expenditureList": [
+        {
+          "where": "home",
+          "amount": 200.0,
+          "time": "29.09.2022 14:41:12",
+          "id": 1,
+          "isSet": false
+        }
+      ],
+      "incomeList": [
+        {
+          "toWhere": "salary",
+          "amount": 500.0,
+          "time": "29.09.2022 14:40:40",
+          "id": 1,
+          "isSet": false
+        },
+        {
+          "toWhere": "1000",
+          "amount": 10000.0,
+          "time": "29.09.2022 14:42:57",
+          "id": 2,
+          "isSet": false
+        },
+        {
+          "toWhere": "gerger",
+          "amount": 100.0,
+          "time": "29.09.2022 14:43:55",
+          "id": 3,
+          "isSet": false
+        }
+      ]
+    }
+  },
+  {
+    "phone": "+998946696195",
+    "firstName": "Nurbek",
+    "lastName": "Boboyev",
+    "chatId": "616525392",
+    "sessionUser": {
+      "balance": 1587.0,
+      "expenditureList": [
+        {
+          "where": "taxi",
+          "amount": 2.0,
+          "time": "29.09.2022 14:41:47",
+          "id": 1,
+          "isSet": false
+        }
+      ],
+      "incomeList": [
+        {
+          "toWhere": "salary",
+          "amount": 200.0,
+          "time": "29.09.2022 14:40:28",
+          "id": 1,
+          "isSet": false
+        },
+        {
+          "toWhere": "add",
+          "amount": 600.0,
+          "time": "29.09.2022 14:41:35",
+          "id": 2,
+          "isSet": false
+        },
+        {
+          "toWhere": "nima",
+          "amount": 789.0,
+          "time": "29.09.2022 14:43:55",
+          "id": 3,
+          "isSet": false
+        }
+      ]
+    }
+  },
+  {
+    "phone": "+998944803888",
+    "firstName": "Manguberdi",
+    "lastName": null,
+    "chatId": "1490827145",
+    "sessionUser": {
+      "balance": 0.0,
+      "expenditureList": [],
+      "incomeList": []
+    }
+  },
+  {
+    "phone": "+998909152526",
+    "firstName": "Shohrux",
+    "lastName": "Soatov",
+    "chatId": "1979172905",
+    "sessionUser": {
+      "balance": 4877.0,
+      "expenditureList": [
+        {
+          "where": "dfsdf",
+          "amount": 123.0,
+          "time": "29.09.2022 14:54:26",
+          "id": 1,
+          "isSet": false
+        }
+      ],
+      "incomeList": [
+        {
+          "toWhere": "50000",
+          "amount": 5000.0,
+          "time": "29.09.2022 14:54:08",
+          "id": 1,
+          "isSet": false
+        }
+      ]
+    }
+  },
+  {
+    "phone": "998917786526",
+    "firstName": "Abdurasulova",
+    "lastName": null,
+    "chatId": "706443562",
+    "sessionUser": {
+      "balance": 0.0,
+      "expenditureList": [],
+      "incomeList": []
+    }
+  },
+  {
+    "phone": "+998994353074",
+    "firstName": "Yusupov",
+    "lastName": "Fayzullo",
+    "chatId": "1053744830",
+    "sessionUser": {
+      "balance": 82000.0,
+      "expenditureList": [
+        {
+          "where": "choyxona",
+          "amount": 34000.0,
+          "time": "28.10.2022 11:12:59",
+          "id": 1,
+          "isSet": false
+        },
+        {
+          "where": "daftar",
+          "amount": 4000.0,
+          "time": "28.10.2022 11:15:52",
+          "id": 3,
+          "isSet": false
+        }
+      ],
+      "incomeList": [
+        {
+          "toWhere": "ishxona",
+          "amount": 120000.0,
+          "time": "28.10.2022 10:42:59",
+          "id": 2,
+          "isSet": false
+        }
+      ]
+    }
+  }
+]
