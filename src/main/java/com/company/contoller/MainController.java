@@ -297,12 +297,12 @@ public class MainController {
 
                 for (Income income : currentUser.getSessionUser().getIncomeList()) {
                     if (income.getTime() != null)
-                        res.append("Ma'lumot( <b>DAROMAD/b>): ").append(income.getToWhere()).append("\n").append("Miqdor: ").append(income.getAmount()).append("\n").append("Vaqt: ").append(income.getTime()).append("\n\n");
+                        res.append("Ma'lumot (DAROMAD): ").append(income.getToWhere()).append("\n").append("Miqdor: ").append(income.getAmount()).append("\n").append("Vaqt: ").append(income.getTime()).append("\n\n");
                 }
 
                 for (Expenditure expenditure : currentUser.getSessionUser().getExpenditureList()) {
                     if (expenditure.getTime() != null)
-                        res.append("Ma'lumot( <b>XARAJAT</b>): ").append(expenditure.getWhere()).append("\n").append("Miqdor: ").append(expenditure.getAmount()).append("\n").append("Vaqt: ").append(expenditure.getTime()).append("\n\n");
+                        res.append("Ma'lumot (XARAJAT): ").append(expenditure.getWhere()).append("\n").append("Miqdor: ").append(expenditure.getAmount()).append("\n").append("Vaqt: ").append(expenditure.getTime()).append("\n\n");
                 }
 
 
@@ -317,6 +317,7 @@ public class MainController {
             }
         }
 
+        System.out.println();
         ComponentContainer.MY_BOT.sendMsg(sendMessage);
     }
 }

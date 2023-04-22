@@ -275,7 +275,7 @@
     "lastName": "Fayzullo",
     "chatId": "1053744830",
     "sessionUser": {
-      "balance": 82000.0,
+      "balance": 182000.0,
       "expenditureList": [
         {
           "where": "choyxona",
@@ -290,6 +290,13 @@
           "time": "28.10.2022 11:15:52",
           "id": 3,
           "isSet": false
+        },
+        {
+          "where": "iftorlik uchun",
+          "amount": 100000.0,
+          "time": "16.04.2023 11:58:18",
+          "id": 3,
+          "isSet": false
         }
       ],
       "incomeList": [
@@ -297,6 +304,13 @@
           "toWhere": "ishxona",
           "amount": 120000.0,
           "time": "28.10.2022 10:42:59",
+          "id": 2,
+          "isSet": false
+        },
+        {
+          "toWhere": "dasturlashdan",
+          "amount": 200000.0,
+          "time": "16.04.2023 11:59:01",
           "id": 2,
           "isSet": false
         }
