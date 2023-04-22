@@ -316,8 +316,6 @@ public class MainController {
                 sendMessage.setParseMode(ParseMode.HTML);
             }
         }
-
-        System.out.println();
         ComponentContainer.MY_BOT.sendMsg(sendMessage);
     }
 }
